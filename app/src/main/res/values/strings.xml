@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Boleiro das Peladas de Terças e Quintas</string>
+    <string name="nome">Nome:</string>
+    <string name="posicao">Posição:</string>
+    <string name="assistencia">Assistências:</string>
+    <string name="gol_marcados">Gol(s) Marcados:</string>
+    <string name="falta_recebidas">Faltas Recebidas:</string>
+    <string name="falta_cometidas">Faltas Cometidas:</string>
+    <string name="cart_amarelo">Cartão Amarelo:</string>
+    <string name="cart_vermelho">Cartão Vermelho:</string>
+    <string name="desarmes">Desarmes:</string>
+    <string name="chutes_gol">Chutes à Gol:</string>
+    <string name="gol_perdido">Gols Perdidos:</string>
+    <string name="gols_sofridos">Chutes Sofridos:</string>
+    <string name="def_dificeis">Defesas Difícies</string>
+    <string name="bola_cheia">Bola Cheia</string>
+    <string name="bola_murcha">Bola Murcha</string>
+    <string name="selecionar_imagem">Selecionar Imagem</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cadastrar_novo_jogador">Cadastrar Jogador</string>
+    <string name="title_activity_bola_cheia_murcha">BolaCheiaMurchaActivity</string>
+</resources>
