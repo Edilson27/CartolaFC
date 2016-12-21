@@ -13,8 +13,8 @@
     <string name="gol_perdido">Gols Perdidos:</string>
     <string name="gols_sofridos">Chutes Sofridos:</string>
     <string name="def_dificeis">Defesas Difícies</string>
-    <string name="bola_cheia">Bola Cheia</string>
-    <string name="bola_murcha">Bola Murcha</string>
+    <string name="bola_cheia">BOLA CHEIA</string>
+    <string name="bola_murcha">BOLA MURCHA</string>
     <string name="selecionar_imagem">Selecionar Imagem</string>
     <string name="cadastrar">Cadastrar</string>
     <string name="cadastrar_novo_jogador">Cadastrar Jogador</string>
