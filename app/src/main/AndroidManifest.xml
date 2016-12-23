@@ -15,9 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Cadastro" />
+        <activity android:name=".Cadastro" android:screenOrientation="portrait" />
         <activity
-
             android:name=".BolaCheiaMurchaActivity"
             android:screenOrientation="landscape"
             android:theme="@style/AppTheme.NoActionBar"></activity>
